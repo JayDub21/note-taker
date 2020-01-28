@@ -15,7 +15,7 @@
 
 ![home](/public/images/nt-home.png)
 
-![notes](/public/images/nt-home.png)
+![notes](/public/images/nt-action.png)
 
 ## How It's Made
 * Javascript
