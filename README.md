@@ -13,9 +13,9 @@
 * Delete files by clicking the red "x" button in the left row
 * Add and delet notes as needed!
 
-![home](/Users/jw/Desktop/note-taker/public/images/nt-home.png)
+![home](/public/images/nt-home.png)
 
-![notes](/Users/jw/Desktop/note-taker/public/images/nt-home.png)
+![notes](/public/images/nt-home.png)
 
 ## How It's Made
 * Javascript
