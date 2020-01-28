@@ -17,7 +17,7 @@
 
 ![notes](/public/images/nt-action.png)
 
-## How It's Made
+## Made Using:
 * Javascript
 * node.js
 * Express npm
